@@ -1,7 +1,7 @@
 # Restaurant-Management-Design-Pattern
 A project based on design patterns course.
 
-#Project:
+# Project:
 A project based on a design pattern course, design patterns provide general solutions or a flexible way to solve common design problems. This article introduces design patterns and how design patterns are implemented in C# and .NET. This project includes 4 patterns
 1. Factory Pattern
 2. Protoype Pattern
