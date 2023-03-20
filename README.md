@@ -6,7 +6,7 @@ A project based on a design pattern course, design patterns provide general solu
 1. Factory Pattern
 2. Protoype Pattern
 3. Strategy Pattern
-4. Facade
+4. Facade Pattern
 
 # Package
 Install a sqlclient library from nuGet Packages
