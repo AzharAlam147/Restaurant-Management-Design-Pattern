@@ -8,6 +8,9 @@ A project based on a design pattern course, design patterns provide general solu
 3. Strategy Pattern
 4. Facade Pattern
 
+# Database
+SQL Database
+
 # Package
 Install a sqlclient library from nuGet Packages
 System.Data.SqlClient
